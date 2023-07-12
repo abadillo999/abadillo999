@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abadillo999
-- 👀 I’m interested in sustainability, smart cities, process efficiency and effectiveness
-- 🌱 I’m currently learning cloud core, software architecture, agile/scrum/SAFE WoW
+- 👀 I'm very interested in Green-Tech, focusing especially on sustainability, process observability, process predictability, and smart cities.
+- 🌱 I’m currently working with cloud core, software architecture, agile/scrum/SAFE WoW
 - 💞️ I’m looking to collaborate on ethical, sustainable, actually-green businesses 
 - 📫 How to reach me alejandro.gbadillo@gmail.com
